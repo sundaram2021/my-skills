@@ -1,0 +1,14 @@
+tech-explainer/SKILL.md
+  h_004cd95484b0ae 1-199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "79ed9b5111099e0eac488a9bcc03d4bbf74e54b1",
+  "prompts": {},
+  "humans": {
+    "h_004cd95484b0ae": {
+      "author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
