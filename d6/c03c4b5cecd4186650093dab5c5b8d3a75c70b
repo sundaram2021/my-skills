@@ -1,0 +1,19 @@
+README.md
+  s_1cd1744e27fc7a::t_e186cabde30e91 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d6c03c4b5cecd4186650093dab5c5b8d3a75c70b",
+  "prompts": {},
+  "sessions": {
+    "s_1cd1744e27fc7a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f25b399a6ffe8u2SBUIttNPPvi",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
